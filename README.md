@@ -242,6 +242,6 @@ lucide-react · jsPDF · FastAPI · Pydantic · Uvicorn · scikit-learn · panda
 
 ## Author
 
-**Parameshwar Reddy** — final-year mini project, 2026
-`parameshwar2007b@gmail.com`
+**Hemalatha Reddy** — final-year mini project, 2026
+`hema31reddy@gmail.com`
 "# Speaker_Confidence_assessment" 
